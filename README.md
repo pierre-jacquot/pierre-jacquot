@@ -8,7 +8,7 @@
 - Test
 
 ## ⚡ Technologies :
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql)
@@ -33,7 +33,6 @@
 ## ⚡ Fun fact :
 - J'adore :heart: les :cat: , la lecture et les séries TV
 - J'écoute beaucoup de podcasts
-
 <!--
 **pierre-jacquot/pierre-jacquot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
