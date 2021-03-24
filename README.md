@@ -25,6 +25,18 @@
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+![iTunes](https://img.shields.io/badge/iTunes-FB5BC5?style=flat-square&logo=itunes&logoColor=white)
+![Viadeo](https://img.shields.io/badge/Viadeo-000000?style=flat-square&logo=viadeo)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![HP](https://img.shields.io/badge/HP-000000?style=flat-square&logo=hp)
+![Dell](https://img.shields.io/badge/Dell-000000?style=flat-square&logo=dell)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox)
+![PowerShell](https://img.shields.io/badge/PowerShell-183A61?style=flat-square&logo=powershell)
+![CentOS](https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=centos)
+![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft)
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
 - [Mon blog](https://www.pierrejacquot.yo.fr)
