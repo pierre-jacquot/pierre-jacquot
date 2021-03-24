@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
-![Joomla](https://img.shields.io/badge/Joomla-blue?style=flat-square&logo=joomla)
+![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
 - [Mon blog](https://www.pierrejacquot.yo.fr)
