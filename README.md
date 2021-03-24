@@ -19,7 +19,6 @@
 ![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
 ![iTunes](https://img.shields.io/badge/iTunes-FB5BC5?style=flat-square&logo=itunes&logoColor=white)
 ![Viadeo](https://img.shields.io/badge/Viadeo-black?style=flat-square&logo=viadeo)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
 ![HP](https://img.shields.io/badge/HP-black?style=flat-square&logo=hp)
 ![Dell](https://img.shields.io/badge/Dell-black?style=flat-square&logo=dell)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)
