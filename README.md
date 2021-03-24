@@ -16,7 +16,6 @@
 ![MarkDown](https://img.shields.io/badge/markdown-green?&style=flat-square&logo=markdown)
 ![PowerShell](https://img.shields.io/badge/PowerShell-183A61?style=flat-square&logo=powershell)
 ![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-darkcyan?style=flat-square&logo=windows)
 ![VMware](https://img.shields.io/badge/VMware-darkgreen?style=flat-square&logo=vmware&logoColor=white)
 ![iTunes](https://img.shields.io/badge/iTunes-pink?style=flat-square&logo=itunes&logoColor=white)
 ![HP](https://img.shields.io/badge/HP-black?style=flat-square&logo=hp)
@@ -25,6 +24,7 @@
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-orange?style=flat-square&logo=virtualbox)
 ![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft)
+![Windows](https://img.shields.io/badge/Windows-darkcyan?style=flat-square&logo=windows)
 ![CentOS](https://img.shields.io/badge/CentOS-brown?style=flat-square&logo=centos)
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
