@@ -4,10 +4,10 @@
 - (+ 10 ans d'expériences).
 - 💬 Interrogez-moi sur tout ce qui concerne...
 
-## 📕 Blog Divers
+## 📕 Blog Divers :
 - Test
 
-## ⚡ Technologies
+## ⚡ Technologies :
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -24,12 +24,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![MarkDown](https://img.shields.io/badge/markdown-black?&style=flat-square&logo=markdown)
-![Joomla](https://img.shields.io/badge/Joomla-blue?style=flat&logo=joomla)
+![Joomla](https://img.shields.io/badge/Joomla-blue?style=flat-square&logo=joomla)
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
 - [Mon blog](https://www.pierrejacquot.yo.fr)
 
-## ⚡ Fun fact:
+## ⚡ Fun fact :
 - J'adore :heart: les :cat: , la lecture et les séries TV
 - J'écoute beaucoup de podcasts
 
