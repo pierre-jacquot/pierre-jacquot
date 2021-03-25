@@ -21,9 +21,9 @@
 ![HP](https://img.shields.io/badge/HP-black?style=flat-square&logo=hp)
 ![Dell](https://img.shields.io/badge/Dell-purple?style=flat-square&logo=dell)
 ![Viadeo](https://img.shields.io/badge/Viadeo-black?style=flat-square&logo=viadeo)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin)
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-orange?style=flat-square&logo=virtualbox)
-![Microsoft](https://img.shields.io/badge/Microsoft-5E5E5E?style=flat-square&logo=microsoft)
+![Microsoft](https://img.shields.io/badge/Microsoft-grey?style=flat-square&logo=microsoft)
 ![Windows](https://img.shields.io/badge/Windows-darkcyan?style=flat-square&logo=windows)
 ![CentOS](https://img.shields.io/badge/CentOS-brown?style=flat-square&logo=centos)
 
