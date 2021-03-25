@@ -2,10 +2,7 @@
 
 ## Qui suis-je ?
 - :fr: Je suis actuellement Ingénieur Système et Virtualisation VMware / DevOps (+ 10 ans d'expériences).
-- 💬 Interrogez-moi sur tout ce qui concerne...
-
-## 📕 Blog Divers :
-- Test
+- 💬 Interrogez-moi sur tout ce qui concerne autour de...
 
 ## ⚡ Technologies :
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)
@@ -33,7 +30,7 @@
 - :link: Mon GitHub : [[https://github.com/pierre-jacquot]](https://github.com/pierre-jacquot)
 - :link: Mon Blog : [[https://www.pierrejacquot.yo.fr]](https://www.pierrejacquot.yo.fr)
 
-## ⚡ Fun fact :
+## 📕 Centres d'intérêt :
 - J’accorde beaucoup d’importance à ma famille :family: et à mon fils :baby: :baby_bottle:
 - J'adore :heart: les animaux :dog: , la lecture :book:, les séries TV :tv: et le sport :running: :soccer: :tennis:
 - J'écoute beaucoup de musique :musical_note: :guitar:
