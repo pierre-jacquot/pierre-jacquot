@@ -1,6 +1,6 @@
 # Hello World ! 👋
 
-## Qui suis-je ?
+## 😄 Qui suis-je ?
 - :fr: Je suis actuellement Ingénieur Système et Virtualisation VMware / DevOps (+ 10 ans d'expériences).
 - 💬 Interrogez-moi sur tout ce qui concerne autour de...
 
@@ -25,10 +25,10 @@
 ![CentOS](https://img.shields.io/badge/CentOS-brown?style=flat-square&logo=centos)
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
-- :link: Mon viadeo : [[https://fr.viadeo.com/fr/profile/pierre-jacquot]](https://fr.viadeo.com/fr/profile/pierre-jacquot)
-- :link: Mon LinkedIn : [[https://www.linkedin.com/in/pierre-jacquot]](https://www.linkedin.com/in/pierre-jacquot)
-- :link: Mon GitHub : [[https://github.com/pierre-jacquot]](https://github.com/pierre-jacquot)
-- :link: Mon Blog : [[https://www.pierrejacquot.yo.fr]](https://www.pierrejacquot.yo.fr)
+- :link: Mon viadeo : [https://fr.viadeo.com/fr/profile/pierre-jacquot](https://fr.viadeo.com/fr/profile/pierre-jacquot)
+- :link: Mon LinkedIn : [https://www.linkedin.com/in/pierre-jacquot](https://www.linkedin.com/in/pierre-jacquot)
+- :link: Mon GitHub : [https://github.com/pierre-jacquot](https://github.com/pierre-jacquot)
+- :link: Mon Blog : [https://www.pierrejacquot.yo.fr](https://www.pierrejacquot.yo.fr)
 
 ## 📕 Centres d'intérêt :
 - J’accorde beaucoup d’importance à ma famille :family: et à mon fils :baby: :baby_bottle:
