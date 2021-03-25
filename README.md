@@ -1,7 +1,7 @@
 # Hello World ! 👋
 
 ## Qui suis-je ?
-- Je suis actuellement Ingénieur Système et Virtualisation VMware / DevOps (+ 10 ans d'expériences).
+- :fr: Je suis actuellement Ingénieur Système et Virtualisation VMware / DevOps (+ 10 ans d'expériences).
 - 💬 Interrogez-moi sur tout ce qui concerne...
 
 ## 📕 Blog Divers :
@@ -34,8 +34,8 @@
 - :link: Mon Blog : [[https://www.pierrejacquot.yo.fr]](https://www.pierrejacquot.yo.fr)
 
 ## ⚡ Fun fact :
-- J'adore :heart: les animaux :dog: , la lecture :book:, les séries TV :tv: et le sport :running::soccer::tennis:
-- J'écoute beaucoup de musique :musical_note::guitar:
+- J'adore :heart: les animaux :dog: , la lecture :book:, les séries TV :tv: et le sport :running: :soccer: :tennis:
+- J'écoute beaucoup de musique :musical_note: :guitar:
 <!--
 **pierre-jacquot/pierre-jacquot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
