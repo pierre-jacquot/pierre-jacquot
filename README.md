@@ -17,7 +17,7 @@
 ![MarkDown](https://img.shields.io/badge/markdown-green?&style=flat-square&logo=markdown)
 ![PowerShell](https://img.shields.io/badge/PowerShell-183A61?style=flat-square&logo=powershell)
 ![VMware](https://img.shields.io/badge/VMware-darkgreen?style=flat-square&logo=vmware&logoColor=white)
-![iTunes](https://img.shields.io/badge/iTunes-pink?style=flat-square&logo=itunes&logoColor=white)
+![iTunes](https://img.shields.io/badge/iTunes-deeppink?style=flat-square&logo=itunes&logoColor=white)
 ![HP](https://img.shields.io/badge/HP-black?style=flat-square&logo=hp)
 ![Dell](https://img.shields.io/badge/Dell-purple?style=flat-square&logo=dell)
 ![Viadeo](https://img.shields.io/badge/Viadeo-black?style=flat-square&logo=viadeo)
