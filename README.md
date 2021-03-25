@@ -34,9 +34,10 @@
 - :link: Mon Blog : [[https://www.pierrejacquot.yo.fr]](https://www.pierrejacquot.yo.fr)
 
 ## ⚡ Fun fact :
+- J’accorde beaucoup d’importance à ma famille :family: et à mon fils :baby: :baby_bottle:
 - J'adore :heart: les animaux :dog: , la lecture :book:, les séries TV :tv: et le sport :running: :soccer: :tennis:
 - J'écoute beaucoup de musique :musical_note: :guitar:
-- J’accorde beaucoup d’importance à ma famille :family: et à mon fils :baby: :baby_bottle:
+
 <!--
 **pierre-jacquot/pierre-jacquot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
