@@ -12,7 +12,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![PHP](https://img.shields.io/badge/-PHP-474A8A?style=flat-square&logo=php)
 ![MySQL](https://img.shields.io/badge/-MySQL-yellow?style=flat-square&logo=mysql)
-![Joomla](https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white)
+![Joomla](https://img.shields.io/badge/Joomla-darkblue?style=flat-square&logo=joomla)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![MarkDown](https://img.shields.io/badge/markdown-green?&style=flat-square&logo=markdown)
 ![PowerShell](https://img.shields.io/badge/PowerShell-183A61?style=flat-square&logo=powershell)
