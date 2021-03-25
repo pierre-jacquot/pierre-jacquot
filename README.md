@@ -2,7 +2,7 @@
 
 ## 😄 Qui suis-je ?
 - :fr: Je suis actuellement Ingénieur Système et Virtualisation VMware / DevOps (+ 10 ans d'expériences).
-- 💬 Passionné par les nouvelles technologies, je suis particulièrement intéressé par les sujets sur l'automatisation, la virtualisation et le cloud.
+- 💬 Passionné par les nouvelles technologies, je suis très intéressé par les sujets sur l'automatisation, la virtualisation et le cloud.
 
 ## ⚡ Technologies :
 [![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat-square&logo=html5&logoColor=white)](https://github.com/pierre-jacquot)
