@@ -28,10 +28,10 @@
 ![CentOS](https://img.shields.io/badge/CentOS-brown?style=flat-square&logo=centos)
 
 ## 📫 Comment me joindre ? me parler ? me suivre ?
-- Mon viadeo : [ https://fr.viadeo.com/fr/profile/pierre-jacquot ](https://fr.viadeo.com/fr/profile/pierre-jacquot)
-- Mon LinkedIn : [ https://www.linkedin.com/in/pierre-jacquot ](https://www.linkedin.com/in/pierre-jacquot)
-- Mon GitHub : [ https://github.com/pierre-jacquot ](https://github.com/pierre-jacquot)
-- Mon Blog : [ https://www.pierrejacquot.yo.fr ](https://www.pierrejacquot.yo.fr)
+- Mon viadeo : [[https://fr.viadeo.com/fr/profile/pierre-jacquot]](https://fr.viadeo.com/fr/profile/pierre-jacquot)
+- Mon LinkedIn : [[https://www.linkedin.com/in/pierre-jacquot]](https://www.linkedin.com/in/pierre-jacquot)
+- Mon GitHub : [[https://github.com/pierre-jacquot]](https://github.com/pierre-jacquot)
+- Mon Blog : [[https://www.pierrejacquot.yo.fr]](https://www.pierrejacquot.yo.fr)
 
 ## ⚡ Fun fact :
 - J'adore :heart: les :cat: , la lecture et les séries TV
