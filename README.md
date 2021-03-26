@@ -33,7 +33,7 @@
 
 ## 📕 Centres d'intérêt :
 - J’accorde beaucoup d’importance à ma famille :family: et à mon fils :baby: :baby_bottle:
-- J'adore :heart: les animaux :dog: , la lecture :book:, les séries TV :tv: et le sport :running: :soccer: :tennis:
+- J'adore :heart: les animaux :dog: , la lecture :book:, les séries TV :tv:, le sport :running: :soccer: :tennis: et les voyages :desert_island: :airplane:
 - J'écoute beaucoup de musique :musical_note: :guitar:
 
 <!--
