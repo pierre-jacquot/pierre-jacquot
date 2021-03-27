@@ -1,7 +1,7 @@
 # Hello World ! 👋
 
 ## 😄 Qui suis-je ?
-- :fr: Je suis actuellement Ingénieur Système et Virtualisation VMware / DevOps (+ 10 ans d'expériences).
+- :man_technologist: Je suis actuellement Ingénieur Système et Virtualisation VMware / DevOps (+ 10 ans d'expériences).
 - :cloud: Passionné par les nouvelles technologies, je suis très intéressé par les sujets sur l'automatisation, la virtualisation et le cloud.
 - 💬 Sans partage, la connaissance n'est rien !
 
